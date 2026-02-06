@@ -31,5 +31,5 @@ def menu():
 if __name__ == "__main__":
     menu()
 
-## Prueba funcionalidad WebSocket
+# Cambio solo en rama develop para comparación GitFlow
 
